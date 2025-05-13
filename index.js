@@ -19,3 +19,4 @@ console.log(ali);
 ali.setName("khaled")
 console.log(ali);
 ali.getName()
+console.log("Show Product Details");
