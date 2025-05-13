@@ -7,6 +7,7 @@ class human {
 
   setName(newName){
     this.#name= newName
+    console.log("object");
   }
   getName(){
     console.log(this.#name);
